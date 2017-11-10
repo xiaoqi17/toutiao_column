@@ -1,1 +1,1 @@
-# toutiao_column
+利用Queue来抓取今日头条的美图栏目的全部图片
